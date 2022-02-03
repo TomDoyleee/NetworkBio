@@ -25,7 +25,7 @@ Syntax highlighted code block
 ```
 View slides [here](slides.html)
 
-view String [here](String/string.html)
+View String [here](String/string.html)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
