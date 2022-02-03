@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-View slides [here](https://tomdoyleee.github.io/slides)
+View slides [here](slides.html)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
