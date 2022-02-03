@@ -1,8 +1,6 @@
 ## Welcome to Network Biology!
 
-You can use the [editor on GitHub](https://github.com/TomDoyleee/NetworkBio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Network biology is an exciting field 
 
 ### Markdown
 
@@ -25,6 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+View slides [here](https://tomdoyleee.github.io/slides)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
