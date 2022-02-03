@@ -41,7 +41,7 @@
 
               if (!text) {text = inputField.placeholder}; // placeholder
 
-              var proteins = text.split(' ');
+              var proteins = text.split(',');
 
               /* the actual API query */
 
@@ -62,7 +62,7 @@
   <body onload='javascript:send_request_to_string()'>
       <center>
           <h1>Tom's Network Biology tutorial</h1>
-          <h3>Query me: (one human protein or multiple space seperated proteins)</h3>
+          <h3>Query me: (one human protein or multiple proteins seperated by comma)</h3>
              <input type="text" id='inputarea' placeholder='NOD2'><br/></br/>
              <button onclick='javascript:send_request_to_string();' type="button">Let's go!</button>
              <h3>Network (click each protein to learn more..):</h3>
