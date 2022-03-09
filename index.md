@@ -10,12 +10,12 @@ Contents:
 5. Quiz
 
 ### What is a Network?
-<iframe src="https://prezi.com/p/8jav3kfelaxf/embed/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
+<iframe src="https://prezi.com/p/8jav3kfelaxf/embed/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>{: .align-centre}
 
 ### Biological Networks
 View Slides [here](slides.html)
 
-
+https://tomdoyleee.github.io/NetworkBio/
 ### STRING database 
 STRING is a database than can be used to map predicted associations between proteins. interactions. 
 
@@ -27,9 +27,9 @@ Once you have generated a network with a set of candidate genes, you can carry o
 
 
 ### Complete Quiz
-
+<div align="centre">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkxPRAIUP8A0SjckPdXKXWHbbnRX18BZ6zpQKa-vmrJdADSw/viewform?embedded=true" width="640" height="566" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
+</div>
 
 ### References 
 
