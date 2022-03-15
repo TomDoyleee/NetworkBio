@@ -20,7 +20,7 @@ Networks can be used to illustrate the relationships between a whole manner of o
 Figure 1.1 Harry Beck's diagrammatic London Tude Map (1933). An early representation of how a network can be used to help commuters around london.  
 
 ## 2. Biological Networks
-Networks have also many different uses in biology. They can be used to represent interactions and relationships between groups and individual objects. Nodes can be different species of organism or molecules in a cell. Use the link and click through the slides to see some examples of biologcial networks. 
+Networks also have many different uses in biology. They can be used to represent interactions and relationships between groups and individual objects. Nodes can be different species of organism or molecules in a cell. Use the link and click through the slides to see some examples of biologcial networks. 
 
 [Types of Biological Networks](slides.html)
 
