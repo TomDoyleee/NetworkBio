@@ -34,7 +34,7 @@ You can also use the STRING website [here](https://string-db.org/cgi/input?sessi
 
 
 ## 4. Network Analysis
-Once you have generated a network with a set of candidate genes/protiens (remeber genes code for proteins), you can carry out a variety of different anaylsis methods. These often involve identifying individually highly connected nodes (Hubs) or groups of highly connected nodes (Clusters).  
+Once you have generated a network with a set of candidate genes/protiens (remember genes code for proteins), you can carry out a variety of different anaylsis methods. These often involve identifying individually highly connected nodes (Hubs) or groups of highly connected nodes (Clusters).  
 
 Other data can be integrated with these networks such as gene expression data or gene pathogencitiy scores to help identify disease causing proteins and what knock on effects that may have with other proteins, ultimately identifying the cause of disease. This is particularly useful in complex diseases such as Alzheimer’s, Parkinson’s and Crohn’s disease. 
 
