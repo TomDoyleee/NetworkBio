@@ -39,7 +39,7 @@ Once you have generated a network with a set of candidate genes/proteins (rememb
 Other data can be integrated with these networks such as gene expression data or gene pathogencitiy scores to help identify disease causing proteins and what knock on effects that may have with other proteins, ultimately identifying the cause of disease. This is particularly useful in complex diseases such as Alzheimer’s, Parkinson’s and Crohn’s disease (Figure 4.1).
 
 ![](crohn.png)
-Figure 4.1. A network of proteins associated with Crohn's disease, with a patients pathogenicity score integrated. A higher score means a genes higher probability it is causing disease. (Higher Score is represented as a deeper red.)
+Figure 4.1. A network of proteins associated with Crohn's disease, with a patients pathogenicity score integrated. A higher score means a gene has a higher probability it is causing disease. (Higher Score is represented as a deeper red.)
 
 ## 5. Quiz
 
