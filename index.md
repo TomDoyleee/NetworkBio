@@ -17,7 +17,7 @@ Click or use your arrow keys to navigate through the network...
 Networks can be used to illustrate the relationships between a whole manner of objects. For example, the London tube map (Figure 1.1) is a network, with nodes representing stations and edges representing the tracks between them! This can therefore be used to help get from one station to the next in the shortest route possible. (Delays permitting of course...) 
 
 ![](tubemap.jpg)
-Figure 1.1 Harry Beck's diagrammatic London Tude Map (1933). An early representation of how a network can be used to help commuters around london.  
+Figure 1.1 H C Beck's diagrammatic London Tude Map (1933). An early representation of how a network can be used to help commuters around london. [1]
 
 ## 2. Biological Networks
 Networks also have many different uses in biology. They can be used to represent interactions and relationships between groups and individual objects. Nodes can be different species of organism or molecules in a cell. Use the link and click through the slides to see some examples of biologcial networks. 
@@ -46,4 +46,7 @@ Figure 4.1. A network of proteins associated with Crohn's disease, with a patien
 <p align="centre"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkxPRAIUP8A0SjckPdXKXWHbbnRX18BZ6zpQKa-vmrJdADSw/viewform?embedded=true" width="640" height="566" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
 
 ### References 
-
+[1] London Transport Museum. Avaliable at: https://www.ltmuseum.co.uk/collections/collections-online/maps/item/1999-321
+[2] Matthew C. Perry - US Geological Survey (USGS). Avaliable at: https://pubs.usgs.gov/circ/circ1316/html/circ1316chap14.html
+[3] EMBL-EBI. Avaliable at: https://www.ebi.ac.uk/training/online/courses/network-analysis-of-protein-interaction-data-an-introduction/types-of-biological-networks/
+[4] KEGG Pathways. Avaliable at: https://www.genome.jp/pathway/hsa04910
