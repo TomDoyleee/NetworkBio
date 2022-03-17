@@ -47,6 +47,9 @@ Figure 4.1. A network of proteins associated with Crohn's disease, with a patien
 
 ### References 
 [1] London Transport Museum. Avaliable at: https://www.ltmuseum.co.uk/collections/collections-online/maps/item/1999-321
+
 [2] Matthew C. Perry - US Geological Survey (USGS). Avaliable at: https://pubs.usgs.gov/circ/circ1316/html/circ1316chap14.html
+
 [3] EMBL-EBI. Avaliable at: https://www.ebi.ac.uk/training/online/courses/network-analysis-of-protein-interaction-data-an-introduction/types-of-biological-networks/
+
 [4] KEGG Pathways. Avaliable at: https://www.genome.jp/pathway/hsa04910
