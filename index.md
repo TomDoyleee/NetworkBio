@@ -34,12 +34,13 @@ You can also use the STRING website [here](https://string-db.org/cgi/input?sessi
 
 
 ## 4. Network Analysis
-Once you have generated a network with a set of candidate genes/proteins (remember genes code for proteins), you can carry out a variety of different anaylsis methods. These often involve identifying individually highly connected nodes (Hubs) or groups of highly connected nodes (Clusters).  
+Once you have generated a network with a set of candidate genes/proteins (remember genes code for proteins), you can carry out a variety of different analysis methods. These often involve identifying individually highly connected nodes (Hubs) or groups of highly connected nodes (Clusters). This information can then be used to identify key nodes or groups of nodes that could be functionally relevant. 
 
-Other data can be integrated with these networks such as gene expression data or gene pathogencitiy scores to help identify disease causing proteins and what knock on effects that may have with other proteins, ultimately identifying the cause of disease. This is particularly useful in complex diseases such as Alzheimer’s, Parkinson’s and Crohn’s disease (Figure 4.1). 
+Other data can be integrated with these networks such as gene expression data or gene pathogencitiy scores to help identify disease causing proteins and what knock on effects that may have with other proteins, ultimately identifying the cause of disease. This is particularly useful in complex diseases such as Alzheimer’s, Parkinson’s and Crohn’s disease (Figure 4.1).
 
 ![](crohn.png)
-Figure 4.1. A network of proteins associated with Crohn's disease, with a patients pathogenicity score integrated. A higher score means a genes higher probability it is causing disease  . (Higher Score is represented as a deeper red.)
+Figure 4.1. A network of proteins associated with Crohn's disease, with a patients pathogenicity score integrated. A higher score means a genes higher probability it is causing disease. (Higher Score is represented as a deeper red.)
+
 ## 5. Quiz
 
 <p align="centre"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkxPRAIUP8A0SjckPdXKXWHbbnRX18BZ6zpQKa-vmrJdADSw/viewform?embedded=true" width="640" height="566" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
